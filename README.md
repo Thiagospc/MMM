@@ -1,6 +1,6 @@
 # M-M-M
-Programa que calcular média, mode e mediana
-
+Programa que calcular média, moda e mediana
+<p>
 shell:
 
 Número :> 1
@@ -15,3 +15,4 @@ Deseja continuar? [S/N] :> n
 Média: 2.0
 Mediana: 2.0
 Moda: 2.0
+</p>
